@@ -1,0 +1,53 @@
+body {
+	align-content: center;
+	background-color: #FF7638;
+}
+
+h1 {
+	color: #00EA92;
+	font-family: 'Indie Flower', cursive;
+	font-size: 3.5em
+}
+
+h2 {
+	color: #00EA92;
+	font-family: 'Indie Flower', cursive;
+	font-size: 2.5em
+}
+
+p {
+	color: #36564A;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 1.5;
+	font-weight: bold;
+}
+
+h3 {
+	color: #FF2300;
+	font-size: 2.5em;
+	font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+	font-size: 2.5em;
+	font-weight: bold;
+	font-family: 'Freckle Face', cursive;
+	color: purple;
+}
+
+.bold-blue {
+	color: #1065DB;
+	font-weight: 600;
+	font-family: 'Bungee', cursive;
+}
+
+#zombie-pic {
+	width: 32em;
+}
+
+aside {
+	padding-left: 50em;
+}
+img{border-color:#00EA92;
+border-style: groove; 
+border-width: 3.0em}
